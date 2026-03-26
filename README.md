@@ -12,7 +12,7 @@ Este repositorio reúne materiales y proyectos del **curso de ciencia de datos p
 
 ---
 ## 🎥 Video resumen
-[![Ver video](https://github.com/opensaludlab/ciencia_datos/blob/main/images/primeros%20pasos.png)](https://www.youtube.com)
+[![Ver video](https://copilot.microsoft.com/th/id/BCO.5a305cb0-92e5-4846-856d-7898745b1555.png)](https://www.youtube.com)
 
 *(Haz clic en la imagen para ver el video explicativo del proyecto)*
 
@@ -27,7 +27,7 @@ Este repositorio reúne materiales y proyectos del **curso de ciencia de datos p
 
 ## 📂 Contenido del repositorio
 📘 **Módulos del curso**  
-![Módulos]()
+[![Módulos](https://copilot.microsoft.com/th/id/BCO.e8bf56a3-1a28-48a9-8f0c-889be7292d84.png)]()
 
 - Nivelación  
 - Análisis exploratorio  
