@@ -1,6 +1,6 @@
 # 🧪 Ciencia de Datos en Deportes 
 
-![Banner del proyecto](https://github.com/opensaludlab/ciencia_datos/blob/main/images/Curso%20Ciencia%20datos.png)
+![Banner del proyecto](https://copilot.microsoft.com/th/id/BCO.5367f442-e054-4403-9ec4-1d6b637325bd.png)
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Introducción
 Hola, ¿quieres ser un científico de datos y especializarte en deporte? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy">
 
