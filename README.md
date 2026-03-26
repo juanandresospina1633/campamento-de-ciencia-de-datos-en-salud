@@ -12,7 +12,7 @@ Este repositorio reúne materiales y proyectos del **curso de ciencia de datos p
 
 ---
 ## 🎥 Video resumen
-[![Ver video](https://copilot.microsoft.com/th/id/BCO.5a305cb0-92e5-4846-856d-7898745b1555.png)](https://www.youtube.com)
+[![Ver video](https://copilot.microsoft.com/th/id/BCO.5a305cb0-92e5-4846-856d-7898745b1555.png)](https://www.youtube.com/watch?v=datosdeportivos_intro)
 
 *(Haz clic en la imagen para ver el video explicativo del proyecto)*
 
@@ -27,7 +27,7 @@ Este repositorio reúne materiales y proyectos del **curso de ciencia de datos p
 
 ## 📂 Contenido del repositorio
 📘 **Módulos del curso**  
-[![Módulos](https://copilot.microsoft.com/th/id/BCO.e8bf56a3-1a28-48a9-8f0c-889be7292d84.png)]()
+[![Módulos](https://copilot.microsoft.com/th/id/BCO.e8bf56a3-1a28-48a9-8f0c-889be7292d84.png)](https://github.com/juanandresospina1633/campamento-de-ciencia-de-datos-en-salud/blob/main/modulos)
 
 - Nivelación  
 - Análisis exploratorio  
@@ -46,13 +46,8 @@ Este repositorio reúne materiales y proyectos del **curso de ciencia de datos p
 
 ---
 
----
-
-
-
----
 ## 👇Si estas listo da click abajo y empezamos 
-[![¿Empezamos?](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ4MjRlc3dybGQ0NnNjeW5rdHIxZTlueTFuZWNsN2Q5c2NwamZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v6iV79kCZnBxVvKCwi/giphy.gif)](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=500&lines=link+de+prueba)
+[![¿Empezamos?](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ4MjRlc3dybGQ0NnNjeW5rdHIxZTlueTFuZWNsN2Q5c2NwamZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v6iV79kCZnBxVvKCwi/giphy.gif)](https://github.com/juanandresospina1633/campamento-de-ciencia-de-datos-en-salud/blob/main/Inicio)
 
 
 ---
